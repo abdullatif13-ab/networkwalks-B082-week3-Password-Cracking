@@ -122,10 +122,10 @@ no installation. It uses two tools in sequence, and proves the point that a simp
 uses the **same dictionary-attack idea** as John the Ripper.
 
 ### Tools
-- **NetworkWalks Hash Calculator** — extracts the `$pdf$` crackable hash from a locked PDF
-  (the PDF is parsed locally in the browser).
-- **NetworkWalks Password Cracker** — runs a dictionary attack, hashing each word in a
-  wordlist and matching it against the PDF hash.
+- **[NetworkWalks Hash Calculator](https://networkwalks.com/hash-calculator/)** — extracts
+  the `$pdf$` crackable hash from a locked PDF (the PDF is parsed locally in the browser).
+- **[NetworkWalks Password Cracker](https://networkwalks.com/password-cracker/)** — runs a
+  dictionary attack, hashing each word in a wordlist and matching it against the PDF hash.
 
 ### Steps
 
